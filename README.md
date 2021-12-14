@@ -15,4 +15,4 @@ Bàsicament amb aquesta story s' ha intentat complir amb els següents principis
   * Permetre visualitzar comparacions de les dades.
   * Poder donar una explicació amb les dades.
  
-En quant als colors he decidit escollir una paleta de tipus qualitativa per poder pintar diferents series de dades amb diversos colors quant apareguin als gràfics, per tant la paleta estarà formada per colors diferents tots ells amb la mateixa intensitat i tó. Com a la majoria de gràfics apareixen 2 series de dades utilitzarem 2 colors ben diferents per poder visualitzar bé allò que volem mostrar. 
+En quant als colors he decidit escollir una paleta de tipus qualitativa per poder pintar diferents series de dades amb diversos colors quant apareguin als gràfics, per tant la paleta estarà formada per colors diferents tots ells amb la mateixa intensitat i tó. Com a la majoria de gràfics apareixen 2 series de dades utilitzarem 2 colors ben diferents per poder visualitzar bé allò que volem mostrar.
