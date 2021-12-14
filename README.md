@@ -7,7 +7,7 @@ Per aconseguir-ho hem utilitzat el software "Flourish Studio" amb llicencia free
 
 En quant a les dades, aquestes han estat obtingudes de la web "https://datos.comunidad.madrid/catalogo" on hi podem trobar una gran quantitat d' informació relacionada amb la Comunitat de Madrid. Aquestes dades poden ser utilitzades segons la normativa indicada per la llicència "Creative Commons Attribution" amb el criteri indicat per "open data".
 
-El fitxer "Story.html", conté bàsicament una etiqueta <div> indicant la ruta de la nostra "story" als servidors d' aquesta plataforma i a continuació una crida a una llibreria que el que farà serà executar codi que permetrà veure la visualització creada.
+El fitxer "Story.html", conté bàsicament una etiqueta "<div>" indicant la ruta de la nostra "story" als servidors d' aquesta plataforma i a continuació una crida a una llibreria que el que farà serà executar codi que permetrà veure la visualització creada.
  
 Bàsicament amb aquesta story s' ha intentat complir amb els següents principis:
   * Presentar la informació des de diferents punts de vista.
