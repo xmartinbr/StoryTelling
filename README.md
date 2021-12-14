@@ -18,3 +18,7 @@ S' ha intentat que aquesta story complis amb els següents principis:
   * Poder donar una explicació amb les dades.
  
 En quant als colors he decidit escollir una paleta de tipus qualitativa per poder pintar diferents series de dades amb diversos colors quant apareguin als gràfics, per tant la paleta estarà formada per colors diferents tots ells amb la mateixa intensitat i tó. Com a la majoria de gràfics apareixen 2 series de dades utilitzarem 2 colors ben diferents per poder visualitzar bé allò que volem mostrar.
+
+En quant al text he volgut diferenciar 2 casos:
+ * Les dades escrites als eixos utilitzen colors pàlids, d' aquesta manera si hi trobem moltes dades en un eix no ens provoca molestia observar-les
+ * Les dades escrites fora del eixos utilitzen color més intensos, justament per remarcar alló que estan mostrant. Això ho trobarem als pop-us i als títols o selectors.
